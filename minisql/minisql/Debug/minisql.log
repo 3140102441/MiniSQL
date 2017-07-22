@@ -1,0 +1,68 @@
+﻿生成启动时间为 2016/6/21 11:06:35。
+     1>项目“G:\Workspace\VS-Workspace\minisql\minisql\minisql\minisql.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\ZJU\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt API.cpp main.cpp
+         main.cpp
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\minisql.h(49): warning C4005: “INT”: 宏重定义
+         g:\workspace\vs-workspace\minisql\minisql\minisql\minisql.h(12): note: 参见“INT”的前一个定义
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\minisql.h(50): warning C4005: “FLOAT”: 宏重定义
+         g:\workspace\vs-workspace\minisql\minisql\minisql\minisql.h(14): note: 参见“FLOAT”的前一个定义
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\minisql.h(51): warning C4005: “CHAR”: 宏重定义
+         g:\workspace\vs-workspace\minisql\minisql\minisql\minisql.h(13): note: 参见“CHAR”的前一个定义
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\buffermanage.h(40): warning C4101: “k”: 未引用的局部变量
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\recordmanager.h(36): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\recordmanager.h(74): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\recordmanager.h(75): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\recordmanager.h(246): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\recordmanager.h(248): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\recordmanager.h(249): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\main.cpp(21): warning C4101: “k”: 未引用的局部变量
+         API.cpp
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\minisql.h(49): warning C4005: “INT”: 宏重定义
+         g:\workspace\vs-workspace\minisql\minisql\minisql\minisql.h(12): note: 参见“INT”的前一个定义
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\minisql.h(50): warning C4005: “FLOAT”: 宏重定义
+         g:\workspace\vs-workspace\minisql\minisql\minisql\minisql.h(14): note: 参见“FLOAT”的前一个定义
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\minisql.h(51): warning C4005: “CHAR”: 宏重定义
+         g:\workspace\vs-workspace\minisql\minisql\minisql\minisql.h(13): note: 参见“CHAR”的前一个定义
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\buffermanage.h(40): warning C4101: “k”: 未引用的局部变量
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\recordmanager.h(36): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\recordmanager.h(74): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\recordmanager.h(75): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\recordmanager.h(246): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\recordmanager.h(248): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\recordmanager.h(249): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(123): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(132): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(133): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(137): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(144): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(148): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(185): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(245): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(249): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(273): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(275): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(285): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(287): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(299): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(301): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(312): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(314): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(316): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(320): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(334): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\workspace\vs-workspace\minisql\minisql\minisql\api.cpp(336): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+       Link:
+         F:\ZJU\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Workspace\VS-Workspace\minisql\minisql\Debug\minisql.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"G:\Workspace\VS-Workspace\minisql\minisql\Debug\minisql.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Workspace\VS-Workspace\minisql\minisql\Debug\minisql.lib" /MACHINE:X86 Debug\API.obj
+         Debug\BufferManage.obj
+         Debug\CatalogManage.obj
+         Debug\IndexManager.obj
+         Debug\interpreter.obj
+         Debug\main.obj
+         minisql.vcxproj -> G:\Workspace\VS-Workspace\minisql\minisql\Debug\minisql.exe
+     1>已完成生成项目“G:\Workspace\VS-Workspace\minisql\minisql\minisql\minisql.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.33

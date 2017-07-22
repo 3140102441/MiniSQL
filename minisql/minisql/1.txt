@@ -1,0 +1,15 @@
+create table lutao(
+id char(10),
+name char(20),
+primary key(id));
+
+create table yuhang(
+id char(10),
+name char(20),
+primary key(id));
+
+insert into lutao values ('1','Lutao');
+
+select * from lutao where id = '1';
+
+create index on lutao(id);
